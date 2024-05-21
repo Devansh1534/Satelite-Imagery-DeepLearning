@@ -5,35 +5,43 @@ This repository contains a collection of Jupyter notebooks focused on applying d
 
 # Satellite_Imagery_DeepLearning-Base.ipynb
 Introduction to deep learning with satellite imagery.
+
 Basic image processing and model training.
 
 # Satellite_Imagery_DeepLearning-LocalDiag.ipynb
 Techniques for diagnosing model performance.
+
 Local interpretability methods to understand model predictions.
 
 # Satellite_Imagery_DeepLearning-SaveLoadModel.ipynb
 Instructions for saving and loading deep learning models.
+
 Best practices for model persistence and reuse.
 
 # Satellite_Imagery_DeepLearning-WandB.ipynb
 Integration with Weights and Biases for experiment tracking.
+
 Visualization and analysis of model training metrics.
 
-#Satellite_Imagery_DeepLearning_ActivationHeatmap.ipynb
+# Satellite_Imagery_DeepLearning_ActivationHeatmap.ipynb
 Generation of activation heatmaps to visualize which parts of the image are important for model predictions.
+
 Methods to interpret model focus areas.
 
 # Satellite_Imagery_Segmentation.ipynb
 Techniques for segmenting satellite images using deep learning.
+
 Implementation of various segmentation algorithms.
 
 # Satellite_segmentation_Prediction-Base.ipynb
 Basic prediction pipeline for segmenting satellite images.
+
 Steps to process new images and generate segmentation masks.
 
 # Satellite_segmentation_Prediction-GradioUI.ipynb
 
 Creation of an interactive user interface using Gradio.
+
 User-friendly application to perform segmentation predictions on satellite images.
 
 
