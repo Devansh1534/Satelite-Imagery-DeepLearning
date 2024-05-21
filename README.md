@@ -36,7 +36,11 @@ https://medium.com/gsi-technology/a-beginners-guide-to-segmentation-in-satellite
 
 # Pixel-wise Image segmentation in satellite/bio-medical images
 TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation
+
 https://github.com/ternaus/TernausNet
+
 U-Net
+
 Using AI+SAR+Optical To Find The Invisible
+
 Robot Surgery Segmentation
