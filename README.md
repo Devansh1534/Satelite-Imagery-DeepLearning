@@ -1,5 +1,40 @@
 # Satelite-Imagery-DeepLearning
-The repository contains multiple Google Colab python modules for satelite imagey and deep learning over satellite image data
+This repository contains a collection of Jupyter notebooks focused on applying deep learning techniques to satellite imagery. These notebooks provide a comprehensive guide to various tasks such as image classification, segmentation, model saving and loading, and creating interactive user interfaces. The projects leverage popular deep learning frameworks and tools to demonstrate practical applications in the field of satellite imagery analysis.
+
+# Notebooks Overview
+
+# Satellite_Imagery_DeepLearning-Base.ipynb
+Introduction to deep learning with satellite imagery.
+Basic image processing and model training.
+
+# Satellite_Imagery_DeepLearning-LocalDiag.ipynb
+Techniques for diagnosing model performance.
+Local interpretability methods to understand model predictions.
+
+# Satellite_Imagery_DeepLearning-SaveLoadModel.ipynb
+Instructions for saving and loading deep learning models.
+Best practices for model persistence and reuse.
+
+# Satellite_Imagery_DeepLearning-WandB.ipynb
+Integration with Weights and Biases for experiment tracking.
+Visualization and analysis of model training metrics.
+
+#Satellite_Imagery_DeepLearning_ActivationHeatmap.ipynb
+Generation of activation heatmaps to visualize which parts of the image are important for model predictions.
+Methods to interpret model focus areas.
+
+# Satellite_Imagery_Segmentation.ipynb
+Techniques for segmenting satellite images using deep learning.
+Implementation of various segmentation algorithms.
+
+# Satellite_segmentation_Prediction-Base.ipynb
+Basic prediction pipeline for segmenting satellite images.
+Steps to process new images and generate segmentation masks.
+
+# Satellite_segmentation_Prediction-GradioUI.ipynb
+
+Creation of an interactive user interface using Gradio.
+User-friendly application to perform segmentation predictions on satellite images.
 
 
 # Resources
