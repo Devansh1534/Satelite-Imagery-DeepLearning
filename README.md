@@ -1,5 +1,5 @@
 # Satelite-Imagery-DeepLearning
-This repository contains a collection of Jupyter notebooks focused on applying deep learning techniques to satellite imagery. These notebooks provide a comprehensive guide to various tasks such as image classification, segmentation, model saving and loading, and creating interactive user interfaces. The projects leverage popular deep learning frameworks and tools to demonstrate practical applications in the field of satellite imagery analysis.
+This repository contains a collection of Google Colab Notebooks focused on applying deep learning techniques to satellite imagery. These notebooks provide a comprehensive guide to various tasks such as image classification, segmentation, model saving and loading, and creating interactive user interfaces. The projects leverage popular deep learning frameworks and tools to demonstrate practical applications in the field of satellite imagery analysis.
 
 # Notebooks Overview
 
